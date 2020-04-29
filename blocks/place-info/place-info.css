@@ -1,0 +1,7 @@
+@import url("./__paragraph/place-info__paragraph.css");
+
+.place-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}

@@ -1,0 +1,14 @@
+@import url("./__title/cover__title.css");
+@import url("./__subtitle/cover__subtitle.css");
+@import url("./__texts/cover__texts.css");
+@import url("./__overlay/cover__overlay.css");
+
+.cover {
+  background-image: url("../../images/cover-route-66.jpg");
+  background-size: 1184px 740px;
+  position: relative;
+  
+  margin: auto;
+  width: 1184px;
+  height: 740px;
+  }

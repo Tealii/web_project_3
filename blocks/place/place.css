@@ -1,0 +1,12 @@
+@import url("./__title/place__title.css");
+@import url("./__image/place__image.css");
+
+.place {
+  /* display: flex; */
+  width: 984px;
+  margin: 0 0 80px 0;
+}
+
+.place:last-of-type {
+  margin: 0;
+}

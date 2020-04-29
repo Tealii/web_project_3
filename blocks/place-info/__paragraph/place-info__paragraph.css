@@ -1,0 +1,12 @@
+.place-info__paragraph {
+  margin: 0 0 24px 0;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+
+  color: #FFFFFF;
+}

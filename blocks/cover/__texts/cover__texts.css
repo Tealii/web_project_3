@@ -1,0 +1,11 @@
+.cover__texts {
+  text-align: center;
+  position: absolute;
+  top: 39%;
+  left: 27%;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+  z-index: 1;
+}
