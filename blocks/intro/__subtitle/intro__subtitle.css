@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
-  line-height: 34px;
+  line-height: 1.41;
   /* or 142% */
 
   color: #FFFFFF;
@@ -12,6 +12,6 @@
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .intro__subtitle {
     font-size: 24px;
-    line-height: 30px;
+    line-height: 1.25;
   }
 }
