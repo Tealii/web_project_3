@@ -1,15 +1,10 @@
 .lead__subtitle {
   display: inline-block;
   max-width: 620px;
-  font-family: "Inter", sans-serif;;
-  font-style: normal;
-  font-weight: normal;
   font-size: 30px;
   line-height: 1.2;
   /* or 120% */
-
   text-align: center;
-
   color: #FFFFFF;
 }
 
