@@ -4,14 +4,15 @@
 @import url("./__subtitle/intro__subtitle.css");
 @import url("./__text/intro__text.css");
 @import url("./__list/intro__list.css");
+@import url("./__list/_text/intro__list_text_bold.css");
 
 .intro {
   max-width: 984px;
   margin: 92px auto;
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .intro {
-    max-width: calc(100vw - 1px);
+    max-width: 928px;
   }
 }
