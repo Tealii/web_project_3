@@ -1,32 +1,8 @@
 @import url("./__title/place__title.css");
 @import url("./__image/place__image.css");
 
-.place {
-  max-width: 984px;
-  margin: 0 0 80px 0;
-}
-
-.place:last-of-type {
-  margin: 0;
-}
-
-
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .place {
-    max-width: 928px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .place {
-    max-width: 720px;
-    margin: 0 0 72px 0;
-  }
-}
-
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .place {
-    max-width: 320px;
-    margin: 0 0 48px 0;
+    align-self: end;
   }
 }
